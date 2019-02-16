@@ -2,7 +2,7 @@
 
 namespace KDSoft.NetWeeks.CodeReview
 {
-    public class CalculadoraBus
+    public class Calculadora
     {
         public int resultado;
         public int numero1;
