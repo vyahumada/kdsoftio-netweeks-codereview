@@ -4,7 +4,7 @@ namespace KDSoft.NetWeeks.CodeReview
 {
     public class Calculadora
     {
-		// TODO Eliminar variables globales
+        // TODO Eliminar variables globales
         // public int resultado { get; private set; }
         // public int numero1;
         // public int numero2;

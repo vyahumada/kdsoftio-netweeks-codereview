@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KDSoft.NetWeeks.API.Business
+namespace KDSoft.NetWeeks.CodeReview
 {
     public class CalculadoraBus
     {
