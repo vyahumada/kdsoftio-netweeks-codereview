@@ -4,9 +4,10 @@ namespace KDSoft.NetWeeks.CodeReview
 {
     public class Calculadora
     {
-        public int resultado { get; private set; }
-        public int numero1;
-        public int numero2;
+		// TODO Eliminar variables globales
+        // public int resultado { get; private set; }
+        // public int numero1;
+        // public int numero2;
 
         //public void sumar(string num1, string num2)
         //{
